@@ -2,6 +2,6 @@
 
 ## Контакты
 
-- Email: [нажмите на почту](mailto:artem.kovalevich.2008@gmail.com)
+- Email: [mexanic.375@gmail.com](mailto:mexanic.375@gmail.com)
 - GitHub: [Kolobok1230](https://github.com/Kolobok1230)
 - По вопросам и предложениям: создайте [Issue](https://github.com/Kolobok1230/Inclusive-Assistant/issues)
